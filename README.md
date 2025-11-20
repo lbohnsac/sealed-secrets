@@ -4,4 +4,4 @@
 - How to use kubeseal cmd
   kubeseal_usage.md
 - Key management
-  
+  key_management.md
